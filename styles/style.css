@@ -24,6 +24,13 @@
 	padding: 90px 50px;
 }
 
+.header__content-left {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 40px;
+}
+
 .header__menu-list {
 	display: flex;
 	flex-direction: row;
